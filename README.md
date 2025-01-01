@@ -13,7 +13,7 @@ Anaconda
 ## 1. Clone the Repository (or Download the YAML File):
 To get the ISA_base_environment.yml file, you can either clone the repository using Git:
 
-` git clone https://github.com/your-username/your-repository-name.git `
+` git clone https://github.com/https://github.com/Gordon1067/ISA_Base_Env.git `
 
 Alternatively, you can download the ISA_base_environment.yml file directly from the GitHub repository.
 
