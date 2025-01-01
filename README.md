@@ -46,6 +46,21 @@ To use it in VScode or any other code editor, simply choose the environment.
 
 ## 6. Start Working with the Environment:
 You’re now ready to start working within the ISA Base Environment! This environment includes all the tools and libraries necessary for building and testing the software used by ISA developers. Begin using the environment to work on your own projects or explore the tools we’ve set up for you.
+## 7 Uninstallation
+To deactivate any conda environment simply run: `conda deactivate`
+
+To Uninstall the environment:
+`conda env list `
+
+Identify the name of the one you want to install.
+
+Run command to uninstall:
+
+`conda env remove --name ISA_base_env`
+
+Confirm Removal:
+
+`conda env list`
 
 ## Need Help?
 If you encounter any issues or have questions, feel free to visit our website: www.isaofficial.xyz or contact spyexpert@isaofficial.xyz. The ISA team is here to assist you in making sure everything works smoothly.
