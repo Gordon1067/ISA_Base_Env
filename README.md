@@ -11,20 +11,19 @@ Anaconda
 1. Clone the Repository (or Download the YAML File):
 To get the ISA_base_environment.yml file, you can either clone the repository using Git:
 
-```bash
-git clone https://github.com/your-username/your-repository-name.git
+` git clone https://github.com/your-username/your-repository-name.git ``
 
 Alternatively, you can download the ISA_base_environment.yml file directly from the GitHub repository.
 
 2. Create the Conda Environment:
 Once you have the ISA_base_environment.yml file, create your Conda environment by running:
 
-'conda env create -f ISA_base_environment.yml'
+`conda env create -f ISA_base_environment.yml``
 
 3. Activate the Environment:
 After the environment has been successfully created, activate it with the following command:
 
-`conda activate ISA_base`
+`conda activate ISA_base``
 
 
 4. Verify the Installation:
