@@ -19,6 +19,9 @@ To get the ISA_base_environment.yml file, you can either clone the repository us
 Alternatively, you can download the ISA_base_environment.yml file directly from the GitHub repository.
 
 ## 2. Create the Conda Environment:
+First check your list of environments:
+conda info --envs
+
 Once you have the ISA_base_environment.yml file, create your Conda environment by running:
 
 `cd ~/ISA_Base_Env`
