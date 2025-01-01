@@ -1,4 +1,5 @@
 name: base
+prefix: ~/miniconda3/envs/ISA_base_env
 channels:
   - conda-forge
   - defaults
