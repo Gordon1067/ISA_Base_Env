@@ -11,29 +11,33 @@ Anaconda
 1. Clone the Repository (or Download the YAML File):
 To get the ISA_base_environment.yml file, you can either clone the repository using Git:
 
-git clone https://github.com/your-username/your-repository-name.git
+'git clone https://github.com/your-username/your-repository-name.git'
 
 Alternatively, you can download the ISA_base_environment.yml file directly from the GitHub repository.
 
 2. Create the Conda Environment:
 Once you have the ISA_base_environment.yml file, create your Conda environment by running:
 
-conda env create -f ISA_base_environment.yml
+'conda env create -f ISA_base_environment.yml'
+
 3. Activate the Environment:
 After the environment has been successfully created, activate it with the following command:
 
-conda activate ISA_base
+`conda activate ISA_base`
+
 
 4. Verify the Installation:
 To ensure everything is set up correctly, you can verify the installed packages with:
 
 
-conda list
+'conda list'
+
 You should see all the packages installed as defined in the environment.
 
 5. Using environment in VScode:
 To use it in VScode or any other code editor, simply choose the environment.
-6. Start Working with the Environment:
+
+7. Start Working with the Environment:
 You’re now ready to start working within the ISA Base Environment! This environment includes all the tools and libraries necessary for building and testing the software used by ISA developers. Begin using the environment to work on your own projects or explore the tools we’ve set up for you.
 
 Need Help?
