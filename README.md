@@ -14,6 +14,7 @@ Anaconda
 To get the ISA_base_environment.yml file, you can either clone the repository using Git:
 
 `cd ~ `
+
 `git clone https://github.com/SpyExpert/ISA_Base_Env.git `
 
 Alternatively, you can download the ISA_base_environment.yml file directly from the GitHub repository.
@@ -25,6 +26,7 @@ conda info --envs
 Once you have the ISA_base_environment.yml file, create your Conda environment by running:
 
 `cd ~/ISA_Base_Env`
+
 `conda env create -f ISA_base_environment.yml`
 
 ## 3. Activate the Environment:
@@ -56,12 +58,12 @@ Identify the name of the one you want to install.
 
 Run command to uninstall:
 
-`conda env remove --name ISA_base_env`
+`conda env remove --name ISA_base`
 
 Confirm Removal:
 
 `conda env list`
 
 ## Need Help?
-If you encounter any issues or have questions, feel free to visit our website: www.isaofficial.xyz or contact spyexpert@isaofficial.xyz. The ISA team is here to assist you in making sure everything works smoothly.
+If you encounter any issues or have questions, feel free to visit our website: www.isaofficial.xyz or contact spyexpert@isaofficial.xyz. The ISA team is here to assist you in making sure everything works smoothly. Also join one of the best intelligence communities, the ISA community with the best agents to help you out: https://discord.gg/mumatr3cCT
 
